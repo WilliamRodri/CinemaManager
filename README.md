@@ -2,7 +2,7 @@
 ##Processo para que o projeto funcione corretamente quando você for testar!
 
 1. Instale o banco de dados.
--   Estou dixando um arquivo sql que e o backup do banco de dados
+-   Estou deixando um arquivo sql que e o backup do banco de dados
 -  você faz o export dele no seu serviço de banco de dados e faz
 -   as devidas alterações no arquivo (DAO>Conexao.java em static final private String caminho =
                                                                       "jdbc:mysql://localhost/cinemamanager";
