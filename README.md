@@ -32,6 +32,7 @@ e tambem criar usuarios.
 e todos os usuarios tem a opção de deletar sua conta!
 ```
 > User e Password para cada nivel:
+
 nivel 1 =>
 User = user1
 Password = user1
